@@ -11,9 +11,7 @@ class App extends Component {
   state= {
     input:'',
     todos:[
-      { id: 0, text: ' 리액트 소개', checked: false },
-      { id: 1, text: ' 리액트 소개', checked: true },
-      { id: 2, text: ' 리액트 소개', checked: false }
+      { id: 0, text: ' 리액트 시작하기', checked: false },
     ]
   }
 
